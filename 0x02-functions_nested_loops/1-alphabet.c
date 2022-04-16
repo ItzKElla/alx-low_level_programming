@@ -1,4 +1,4 @@
-#include <stdio>
+#include <stdio.h>
 /**
 * print_alphabet - Prints the alphabet in lower, followed by a new line
 */
