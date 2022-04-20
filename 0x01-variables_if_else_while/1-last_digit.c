@@ -5,8 +5,7 @@
 /**
 * main- Entry point
 *
-* Description: Prints a number and it's last number along with whether its
-* last digit is 0, greater than 5, or less than 6 and not 0
+* Description: Prints a number less than 6, greater than 5 and not 0
 * Return: 0
 */
 int main(void)
